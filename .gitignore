@@ -344,4 +344,7 @@ cython_debug/
 .pixi
 *.egg-info
 
+./Abgabe/*.csv
+full_dataset.csv
+
 
