@@ -349,3 +349,14 @@ full_dataset.csv
 
 
 datasets/
+Abgabe/phillip/temperature-plot.pdf
+Abgabe/phillip/model.pth
+Abgabe/phillip/loss-plot.pdf
+Abgabe/phillip/model_and_optimizer.pth
+Abgabe/phillip/gpt2/124M/checkpoint
+Abgabe/phillip/gpt2/124M/hparams.json
+Abgabe/phillip/gpt2/124M/model.ckpt.data-00000-of-00001
+Abgabe/phillip/gpt2/124M/model.ckpt.index
+Abgabe/phillip/gpt2/124M/model.ckpt.meta
+Abgabe/phillip/classification/
+Abgabe/phillip/recipe_classifier.pth
