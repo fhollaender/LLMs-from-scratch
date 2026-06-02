@@ -360,3 +360,9 @@ Abgabe/phillip/gpt2/124M/model.ckpt.index
 Abgabe/phillip/gpt2/124M/model.ckpt.meta
 Abgabe/phillip/classification/
 Abgabe/phillip/recipe_classifier.pth
+Abgabe/output/
+Abgabe/gpt2/355M/model.ckpt.meta
+Abgabe/gpt2/355M/model.ckpt.data-00000-of-00001
+Abgabe/gpt2/355M/model.ckpt.index
+Abgabe/gpt2/355M/checkpoint
+Abgabe/gpt2/355M/hparams.json
