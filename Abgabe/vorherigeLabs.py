@@ -41,7 +41,7 @@ class MultiHeadAttention(nn.Module):
         queries = queries.transpose(1, 2)
         values = values.transpose(1, 2)
 
-        # Attention Scores für jeden Head berechnen 
+        # Attention Scores für jeden Head berechneen
         attn_scores = queries @ keys.transpose(2, 3)  
 
         # Maskierung der Attention Scores, um zukünftige Positionen zu maskieren, damit sie nicht in die Berechnung der Attention Weights einbezogen werden
