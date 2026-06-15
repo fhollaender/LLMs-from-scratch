@@ -11,7 +11,7 @@
 # https://syncandshare.lrz.de/dl/fiHE8nDPcb4nww3VCn4QmN/reduced_dataset_100k.csv
 # 
 # *Optional* the full dataset containing 2.2 million recipes can be used as input for larger-scale training.
-# https://syncandshare.lrz.de/dl/fiHE8nDPcb4nww3VCn4QmN/full_dataset.csv
+# https://syncandshare.lrz.de/dl/finR5gtyQx3FNL5P2hz6H/full_dataset.csv
 
 # ## Import necessary libaries
 
@@ -33,7 +33,7 @@ import torch
 # Reduced dataset with 100k rows for testing
 cloud_url = "https://syncandshare.lrz.de/dl/fiHE8nDPcb4nww3VCn4QmN/reduced_dataset_100k.csv"
 # Uncomment the following line to use the full dataset
-# cloud_url = "https://syncandshare.lrz.de/dl/fiHE8nDPcb4nww3VCn4QmN/full_dataset.csv"
+# cloud_url = "https://syncandshare.lrz.de/dl/finR5gtyQx3FNL5P2hz6H/full_dataset.csv"
 
 try:
     print("Loading dataset from cloud...")
